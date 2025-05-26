@@ -1,0 +1,1 @@
+C:\Users\rian exe\projetos unity\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\4s4b424w\obj\armeabi-v7a
