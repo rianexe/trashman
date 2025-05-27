@@ -4,3 +4,10 @@
 *.glsl linguist-vendored
 *.shadergraph linguist-vendored
 *.cs linguist-detectable
+# Ignorar arquivos de C/C++ e CMake
+*.c linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.hpp linguist-vendored
+CMakeLists.txt linguist-vendored
+*.cmake linguist-vendored
